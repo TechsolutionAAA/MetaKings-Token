@@ -1,3 +1,1 @@
-"# MetaKings-Token-Smart-Contract" 
-"# MetaKings-Token" 
-"# MetaKings-Token" 
+"# MetaKings-Token-Smart-Contract"
